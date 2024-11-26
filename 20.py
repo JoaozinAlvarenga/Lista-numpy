@@ -1,3 +1,5 @@
+# 20.Simule um conjunto de dados com 50 amostras (linhas) e 3 características (colunas) usando números aleatórios entre 0 e 1. Para cada coluna, calcule: a. A média e o desvio padrão. b. O valor máximo e o valor mínimo. c. Normalize os dados de cada coluna para que fiquem no intervalo [0, 1].
+
 import numpy as np
 import pandas as pd
 
@@ -25,4 +27,3 @@ print(df_normalizado.head())
 print("\nVerificação da Normalização:")
 print(df_normalizado.min())
 print(df_normalizado.max())
-
