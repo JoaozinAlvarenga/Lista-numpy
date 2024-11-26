@@ -1,3 +1,5 @@
+# 28.Dado o array x=[0,1,2,3,4] e y=[1,2,0,2,1], crie novos valores para xxx em passos de 0.1 usando numpy.interp. Plote os valores interpolados (se necessário, use Matplotlib para exibir).
+
 import numpy as np
 import matplotlib.pyplot as plt
 
