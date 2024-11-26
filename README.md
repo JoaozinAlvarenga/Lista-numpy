@@ -1,4 +1,4 @@
 # Lista-numpy
 
-Feito por: Joõa Gabriel Alvarenga Botelho
+Feito por: João Gabriel Alvarenga Botelho
 Turma: CC2MB
