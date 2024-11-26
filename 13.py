@@ -1,3 +1,5 @@
+# 13.Crie dois arrays 1D de tamanho 5. Eleve cada elemento do primeiro array ao quadrado e subtraia o correspondente elemento do segundo array.
+
 import numpy as np
 
 np.random.seed(42)
